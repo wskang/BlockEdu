@@ -1,7 +1,7 @@
 #!/bin/sh
 
 IDENTIFY="JayBlockChain"
-RPCADDR="192.168.0.14"
+RPCADDR="34.85.127.54"
 RPCPORT=8545
 RPCCORSDOMAIN="*"
 DATADIR="/home/ethereum/privatechain/"
