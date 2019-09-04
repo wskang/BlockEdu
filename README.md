@@ -14,6 +14,8 @@
 
 [ [FileZilla](https://download.filezilla-project.org/client/FileZilla_3.44.2_win64_sponsored-setup.exe) ] 
 
+[ [Chrome Web Browser](https://www.google.com/chrome/) ] 
+
 ------
 
 > 해당 프로그램은 교육 시작전 미리 설치 부탁드립니다.
