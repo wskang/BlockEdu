@@ -10,7 +10,13 @@
 
 [ [Putty](https://ko.softonic.com/download/putty/windows/post-download) ] 
 
-[ Visual Studio Code ] 
+[ [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user) ] 
 
-[ FileZilla ] 
+[ [FileZilla](https://download.filezilla-project.org/client/FileZilla_3.44.2_win64_sponsored-setup.exe) ] 
+
+------
+
+> 해당 프로그램은 교육 시작전 미리 설치 부탁드립니다.
+
+------
 
