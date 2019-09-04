@@ -8,13 +8,9 @@
 
 ------
 
-[
+[ [Putty](https://ko.softonic.com/download/putty/windows/post-download) ] 
 
-[putty]: https://ko.softonic.com/download/putty/windows/post-download
+[ Visual Studio Code ] 
 
-] 
-
-[Visual Studio Code] 
-
-[FileZilla] 
+[ FileZilla ] 
 
