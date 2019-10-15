@@ -16,6 +16,14 @@
 
 [ [Chrome Web Browser](https://www.google.com/chrome/) ] 
 
+
+
+[ [JDK Install](http://edu.datafarm.co.kr/download/jdk-8u121-windows-x64.exe) ] 
+
+[ [Chrome Web Browser](http://edu.datafarm.co.kr/download/apache-tomcat-8.0.30.zip) ] 
+
+
+
 ------
 
 > 해당 프로그램은 교육 시작전 미리 설치 부탁드립니다.
